@@ -3,6 +3,7 @@
         "tvs": [
             {
                 "id": 1,
+                "tipo": "TV",
                 "img": "tv.webp",
                 "modelo": "Smart TV",
                 "resolucao": "4K",
@@ -12,6 +13,7 @@
             },
             {
                 "id": 2,
+                "tipo": "TV",
                 "img": "tv.webp",
                 "modelo": "Smart TV Crystal",
                 "resolucao": "4K",
@@ -21,6 +23,7 @@
             },
             {
                 "id": 3,
+                "tipo": "TV",
                 "img": "tv.webp",
                 "modelo": "Smart TV UHD",
                 "resolucao": "4K",
@@ -30,6 +33,7 @@
             },
             {
                 "id": 4,
+                "tipo": "TV",
                 "img": "tv.webp",
                 "modelo": "Smart TV NanoCell",
                 "resolucao": "4K",
@@ -39,6 +43,7 @@
             },
             {
                 "id": 5,
+                "tipo": "TV",
                 "img": "tv.webp",
                 "modelo": "Smart TV QLED",
                 "resolucao": "4K",
@@ -48,6 +53,7 @@
             },
             {
                 "id": 6,
+                "tipo": "TV",
                 "img": "tv.webp",
                 "modelo": "Smart TV LED",
                 "resolucao": "Full HD",
@@ -57,6 +63,7 @@
             },
             {
                 "id": 7,
+                "tipo": "TV",
                 "img": "tv.webp",
                 "modelo": "Smart TV Ambilight",
                 "resolucao": "4K",
@@ -66,6 +73,7 @@
             },
             {
                 "id": 8,
+                "tipo": "TV",
                 "img": "tv.webp",
                 "modelo": "Smart TV Google TV",
                 "resolucao": "4K",
@@ -75,26 +83,19 @@
             },
             {
                 "id": 9,
+                "tipo": "TV",
                 "img": "tv.webp",
                 "modelo": "Smart TV OLED",
                 "resolucao": "4K",
                 "polegadas": 65,
                 "fabricante": "LG",
                 "valor": 6499.9
-            },
-            {
-                "id": 10,
-                "img": "tv.webp",
-                "modelo": "Smart TV Neo QLED",
-                "resolucao": "8K",
-                "polegadas": 75,
-                "fabricante": "Samsung",
-                "valor": 8999.9
             }
         ],
         "celulares": [
             {
                 "id": 1,
+                "tipo": "CELULAR",
                 "img": "celular.webp",
                 "modelo": "Galaxy S24",
                 "memoria": "128GB",
@@ -103,6 +104,7 @@
             },
             {
                 "id": 2,
+                "tipo": "CELULAR",
                 "img": "celular.webp",
                 "modelo": "Galaxy S24 Plus",
                 "memoria": "256GB",
@@ -111,6 +113,7 @@
             },
             {
                 "id": 3,
+                "tipo": "CELULAR",
                 "img": "celular.webp",
                 "modelo": "Galaxy A55",
                 "memoria": "128GB",
@@ -119,6 +122,7 @@
             },
             {
                 "id": 4,
+                "tipo": "CELULAR",
                 "img": "celular.webp",
                 "modelo": "Galaxy A35",
                 "memoria": "128GB",
@@ -127,6 +131,7 @@
             },
             {
                 "id": 5,
+                "tipo": "CELULAR",
                 "img": "celular.webp",
                 "modelo": "iPhone 15",
                 "memoria": "128GB",
@@ -135,6 +140,7 @@
             },
             {
                 "id": 6,
+                "tipo": "CELULAR",
                 "img": "celular.webp",
                 "modelo": "iPhone 15 Pro",
                 "memoria": "256GB",
@@ -143,6 +149,7 @@
             },
             {
                 "id": 7,
+                "tipo": "CELULAR",
                 "img": "celular.webp",
                 "modelo": "Redmi Note 13",
                 "memoria": "128GB",
@@ -151,6 +158,7 @@
             },
             {
                 "id": 8,
+                "tipo": "CELULAR",
                 "img": "celular.webp",
                 "modelo": "Redmi Note 13 Pro",
                 "memoria": "256GB",
@@ -159,6 +167,7 @@
             },
             {
                 "id": 9,
+                "tipo": "CELULAR",
                 "img": "celular.webp",
                 "modelo": "Moto G84",
                 "memoria": "256GB",
@@ -167,6 +176,7 @@
             },
             {
                 "id": 10,
+                "tipo": "CELULAR",
                 "img": "celular.webp",
                 "modelo": "Moto Edge 50",
                 "memoria": "256GB",
@@ -177,6 +187,7 @@
         "bicicletas": [
             {
                 "id": 1,
+                "tipo": "BICICLETA",
                 "img": "bike.webp",
                 "modelo": "Mountain Bike",
                 "tamanho": "Aro 29",
@@ -185,6 +196,7 @@
             },
             {
                 "id": 2,
+                "tipo": "BICICLETA",
                 "img": "bike.webp",
                 "modelo": "Vulcan",
                 "tamanho": "Aro 29",
@@ -193,6 +205,7 @@
             },
             {
                 "id": 3,
+                "tipo": "BICICLETA",
                 "img": "bike.webp",
                 "modelo": "Explorer",
                 "tamanho": "Aro 29",
@@ -201,6 +214,7 @@
             },
             {
                 "id": 4,
+                "tipo": "BICICLETA",
                 "img": "bike.webp",
                 "modelo": "Big Wheel",
                 "tamanho": "Aro 29",
@@ -209,6 +223,7 @@
             },
             {
                 "id": 5,
+                "tipo": "BICICLETA",
                 "img": "bike.webp",
                 "modelo": "Hacker",
                 "tamanho": "Aro 29",
@@ -217,6 +232,7 @@
             },
             {
                 "id": 6,
+                "tipo": "BICICLETA",
                 "img": "bike.webp",
                 "modelo": "Moab",
                 "tamanho": "Aro 29",
@@ -225,6 +241,7 @@
             },
             {
                 "id": 7,
+                "tipo": "BICICLETA",
                 "img": "bike.webp",
                 "modelo": "City Tour",
                 "tamanho": "Aro 700",
@@ -233,6 +250,7 @@
             },
             {
                 "id": 8,
+                "tipo": "BICICLETA",
                 "img": "bike.webp",
                 "modelo": "Mountain Sport",
                 "tamanho": "Aro 27.5",
@@ -241,23 +259,13 @@
             },
             {
                 "id": 9,
+                "tipo": "BICICLETA",
                 "img": "bike.webp",
                 "modelo": "Trail",
                 "tamanho": "Aro 29",
                 "fabricante": "KSW",
                 "valor": 1499.9
-            },
-            {
-                "id": 10,
-                "img": "bike.webp",
-                "modelo": "Urban",
-                "tamanho": "Aro 700",
-                "fabricante": "Sense",
-                "valor": 2699.9
             }
         ]
-    },
-    "profile": {
-        "name": "typicode"
     }
 }
