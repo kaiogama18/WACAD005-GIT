@@ -1,10 +1,262 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "hello"
-        }
-    ],
+    "products": {
+        "tvs": [
+            {
+                "id": 1,
+                "img": "tv.webp",
+                "modelo": "Smart TV",
+                "resolucao": "4K",
+                "polegadas": 43,
+                "fabricante": "Samsung",
+                "valor": 1899.9
+            },
+            {
+                "id": 2,
+                "img": "tv.webp",
+                "modelo": "Smart TV Crystal",
+                "resolucao": "4K",
+                "polegadas": 50,
+                "fabricante": "Samsung",
+                "valor": 2299.9
+            },
+            {
+                "id": 3,
+                "img": "tv.webp",
+                "modelo": "Smart TV UHD",
+                "resolucao": "4K",
+                "polegadas": 55,
+                "fabricante": "LG",
+                "valor": 2799.9
+            },
+            {
+                "id": 4,
+                "img": "tv.webp",
+                "modelo": "Smart TV NanoCell",
+                "resolucao": "4K",
+                "polegadas": 65,
+                "fabricante": "LG",
+                "valor": 3999.9
+            },
+            {
+                "id": 5,
+                "img": "tv.webp",
+                "modelo": "Smart TV QLED",
+                "resolucao": "4K",
+                "polegadas": 55,
+                "fabricante": "TCL",
+                "valor": 2599.9
+            },
+            {
+                "id": 6,
+                "img": "tv.webp",
+                "modelo": "Smart TV LED",
+                "resolucao": "Full HD",
+                "polegadas": 32,
+                "fabricante": "Philips",
+                "valor": 1199.9
+            },
+            {
+                "id": 7,
+                "img": "tv.webp",
+                "modelo": "Smart TV Ambilight",
+                "resolucao": "4K",
+                "polegadas": 50,
+                "fabricante": "Philips",
+                "valor": 2399.9
+            },
+            {
+                "id": 8,
+                "img": "tv.webp",
+                "modelo": "Smart TV Google TV",
+                "resolucao": "4K",
+                "polegadas": 55,
+                "fabricante": "TCL",
+                "valor": 2499.9
+            },
+            {
+                "id": 9,
+                "img": "tv.webp",
+                "modelo": "Smart TV OLED",
+                "resolucao": "4K",
+                "polegadas": 65,
+                "fabricante": "LG",
+                "valor": 6499.9
+            },
+            {
+                "id": 10,
+                "img": "tv.webp",
+                "modelo": "Smart TV Neo QLED",
+                "resolucao": "8K",
+                "polegadas": 75,
+                "fabricante": "Samsung",
+                "valor": 8999.9
+            }
+        ],
+        "celulares": [
+            {
+                "id": 1,
+                "img": "celular.webp",
+                "modelo": "Galaxy S24",
+                "memoria": "128GB",
+                "fabricante": "Samsung",
+                "valor": 3999.9
+            },
+            {
+                "id": 2,
+                "img": "celular.webp",
+                "modelo": "Galaxy S24 Plus",
+                "memoria": "256GB",
+                "fabricante": "Samsung",
+                "valor": 4999.9
+            },
+            {
+                "id": 3,
+                "img": "celular.webp",
+                "modelo": "Galaxy A55",
+                "memoria": "128GB",
+                "fabricante": "Samsung",
+                "valor": 2299.9
+            },
+            {
+                "id": 4,
+                "img": "celular.webp",
+                "modelo": "Galaxy A35",
+                "memoria": "128GB",
+                "fabricante": "Samsung",
+                "valor": 1799.9
+            },
+            {
+                "id": 5,
+                "img": "celular.webp",
+                "modelo": "iPhone 15",
+                "memoria": "128GB",
+                "fabricante": "Apple",
+                "valor": 4599.9
+            },
+            {
+                "id": 6,
+                "img": "celular.webp",
+                "modelo": "iPhone 15 Pro",
+                "memoria": "256GB",
+                "fabricante": "Apple",
+                "valor": 6799.9
+            },
+            {
+                "id": 7,
+                "img": "celular.webp",
+                "modelo": "Redmi Note 13",
+                "memoria": "128GB",
+                "fabricante": "Xiaomi",
+                "valor": 1399.9
+            },
+            {
+                "id": 8,
+                "img": "celular.webp",
+                "modelo": "Redmi Note 13 Pro",
+                "memoria": "256GB",
+                "fabricante": "Xiaomi",
+                "valor": 1899.9
+            },
+            {
+                "id": 9,
+                "img": "celular.webp",
+                "modelo": "Moto G84",
+                "memoria": "256GB",
+                "fabricante": "Motorola",
+                "valor": 1599.9
+            },
+            {
+                "id": 10,
+                "img": "celular.webp",
+                "modelo": "Moto Edge 50",
+                "memoria": "256GB",
+                "fabricante": "Motorola",
+                "valor": 2999.9
+            }
+        ],
+        "bicicletas": [
+            {
+                "id": 1,
+                "img": "bike.webp",
+                "modelo": "Mountain Bike",
+                "tamanho": "Aro 29",
+                "fabricante": "Caloi",
+                "valor": 1899.9
+            },
+            {
+                "id": 2,
+                "img": "bike.webp",
+                "modelo": "Vulcan",
+                "tamanho": "Aro 29",
+                "fabricante": "Caloi",
+                "valor": 1599.9
+            },
+            {
+                "id": 3,
+                "img": "bike.webp",
+                "modelo": "Explorer",
+                "tamanho": "Aro 29",
+                "fabricante": "Oggi",
+                "valor": 2499.9
+            },
+            {
+                "id": 4,
+                "img": "bike.webp",
+                "modelo": "Big Wheel",
+                "tamanho": "Aro 29",
+                "fabricante": "Sense",
+                "valor": 2999.9
+            },
+            {
+                "id": 5,
+                "img": "bike.webp",
+                "modelo": "Hacker",
+                "tamanho": "Aro 29",
+                "fabricante": "Oggi",
+                "valor": 3299.9
+            },
+            {
+                "id": 6,
+                "img": "bike.webp",
+                "modelo": "Moab",
+                "tamanho": "Aro 29",
+                "fabricante": "Sense",
+                "valor": 3899.9
+            },
+            {
+                "id": 7,
+                "img": "bike.webp",
+                "modelo": "City Tour",
+                "tamanho": "Aro 700",
+                "fabricante": "Caloi",
+                "valor": 2199.9
+            },
+            {
+                "id": 8,
+                "img": "bike.webp",
+                "modelo": "Mountain Sport",
+                "tamanho": "Aro 27.5",
+                "fabricante": "Caloi",
+                "valor": 1799.9
+            },
+            {
+                "id": 9,
+                "img": "bike.webp",
+                "modelo": "Trail",
+                "tamanho": "Aro 29",
+                "fabricante": "KSW",
+                "valor": 1499.9
+            },
+            {
+                "id": 10,
+                "img": "bike.webp",
+                "modelo": "Urban",
+                "tamanho": "Aro 700",
+                "fabricante": "Sense",
+                "valor": 2699.9
+            }
+        ]
+    },
     "profile": {
         "name": "typicode"
     }
