@@ -40,56 +40,6 @@
                 "polegadas": 65,
                 "fabricante": "LG",
                 "valor": 3999.9
-            },
-            {
-                "id": 5,
-                "tipo": "TV",
-                "img": "tv.webp",
-                "modelo": "Smart TV QLED",
-                "resolucao": "4K",
-                "polegadas": 55,
-                "fabricante": "TCL",
-                "valor": 2599.9
-            },
-            {
-                "id": 6,
-                "tipo": "TV",
-                "img": "tv.webp",
-                "modelo": "Smart TV LED",
-                "resolucao": "Full HD",
-                "polegadas": 32,
-                "fabricante": "Philips",
-                "valor": 1199.9
-            },
-            {
-                "id": 7,
-                "tipo": "TV",
-                "img": "tv.webp",
-                "modelo": "Smart TV Ambilight",
-                "resolucao": "4K",
-                "polegadas": 50,
-                "fabricante": "Philips",
-                "valor": 2399.9
-            },
-            {
-                "id": 8,
-                "tipo": "TV",
-                "img": "tv.webp",
-                "modelo": "Smart TV Google TV",
-                "resolucao": "4K",
-                "polegadas": 55,
-                "fabricante": "TCL",
-                "valor": 2499.9
-            },
-            {
-                "id": 9,
-                "tipo": "TV",
-                "img": "tv.webp",
-                "modelo": "Smart TV OLED",
-                "resolucao": "4K",
-                "polegadas": 65,
-                "fabricante": "LG",
-                "valor": 6499.9
             }
         ],
         "celulares": [
@@ -128,60 +78,6 @@
                 "memoria": "128GB",
                 "fabricante": "Samsung",
                 "valor": 1799.9
-            },
-            {
-                "id": 5,
-                "tipo": "CELULAR",
-                "img": "celular.webp",
-                "modelo": "iPhone 15",
-                "memoria": "128GB",
-                "fabricante": "Apple",
-                "valor": 4599.9
-            },
-            {
-                "id": 6,
-                "tipo": "CELULAR",
-                "img": "celular.webp",
-                "modelo": "iPhone 15 Pro",
-                "memoria": "256GB",
-                "fabricante": "Apple",
-                "valor": 6799.9
-            },
-            {
-                "id": 7,
-                "tipo": "CELULAR",
-                "img": "celular.webp",
-                "modelo": "Redmi Note 13",
-                "memoria": "128GB",
-                "fabricante": "Xiaomi",
-                "valor": 1399.9
-            },
-            {
-                "id": 8,
-                "tipo": "CELULAR",
-                "img": "celular.webp",
-                "modelo": "Redmi Note 13 Pro",
-                "memoria": "256GB",
-                "fabricante": "Xiaomi",
-                "valor": 1899.9
-            },
-            {
-                "id": 9,
-                "tipo": "CELULAR",
-                "img": "celular.webp",
-                "modelo": "Moto G84",
-                "memoria": "256GB",
-                "fabricante": "Motorola",
-                "valor": 1599.9
-            },
-            {
-                "id": 10,
-                "tipo": "CELULAR",
-                "img": "celular.webp",
-                "modelo": "Moto Edge 50",
-                "memoria": "256GB",
-                "fabricante": "Motorola",
-                "valor": 2999.9
             }
         ],
         "bicicletas": [
@@ -220,51 +116,6 @@
                 "tamanho": "Aro 29",
                 "fabricante": "Sense",
                 "valor": 2999.9
-            },
-            {
-                "id": 5,
-                "tipo": "BICICLETA",
-                "img": "bike.webp",
-                "modelo": "Hacker",
-                "tamanho": "Aro 29",
-                "fabricante": "Oggi",
-                "valor": 3299.9
-            },
-            {
-                "id": 6,
-                "tipo": "BICICLETA",
-                "img": "bike.webp",
-                "modelo": "Moab",
-                "tamanho": "Aro 29",
-                "fabricante": "Sense",
-                "valor": 3899.9
-            },
-            {
-                "id": 7,
-                "tipo": "BICICLETA",
-                "img": "bike.webp",
-                "modelo": "City Tour",
-                "tamanho": "Aro 700",
-                "fabricante": "Caloi",
-                "valor": 2199.9
-            },
-            {
-                "id": 8,
-                "tipo": "BICICLETA",
-                "img": "bike.webp",
-                "modelo": "Mountain Sport",
-                "tamanho": "Aro 27.5",
-                "fabricante": "Caloi",
-                "valor": 1799.9
-            },
-            {
-                "id": 9,
-                "tipo": "BICICLETA",
-                "img": "bike.webp",
-                "modelo": "Trail",
-                "tamanho": "Aro 29",
-                "fabricante": "KSW",
-                "valor": 1499.9
             }
         ]
     }
